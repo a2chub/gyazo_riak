@@ -1,0 +1,4 @@
+gyazo_riak
+==========
+
+riakつかってgyazoクローン
